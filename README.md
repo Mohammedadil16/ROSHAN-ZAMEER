@@ -1,7 +1,7 @@
-# ☕ Cafe Management System
+# ☕ Cafe Management System  
 
-A simple and user-friendly system developed to manage cafe operations like order processing, bill calculations, and record keeping.  
-The project uses Python (Tkinter) for the graphical interface and SQLite3 for backend storage, making it lightweight, efficient, and easy to use.
+A simple and user-friendly system developed to manage cafe operations like order processing, bill calculations, and record keeping.The project uses Python (Tkinter) for the graphical interface and SQLite3 for backend storage, making it lightweight, efficient, and easy to use.
+
 ---
 
 ## 📑 Table of Contents
